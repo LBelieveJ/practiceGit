@@ -26,4 +26,5 @@ test command --no--ff
 test command --no--ff  agaign  
 test command --no--ff third
 test command --no--ff forth
+test command --no--ff fifth
 
