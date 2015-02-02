@@ -28,4 +28,6 @@ test command --no--ff third
 test command --no--ff forth
 test command --no--ff fifth
 test command git stash
+fafsafafsafsa
+test command git stash list  and git stash apply and git stash drop
 
